@@ -38,4 +38,10 @@ class APIManagementController(base.BaseController):
         user.apikey = new_key
         user.save()
         model.Session.commit()
-        return base.render("API_management/api_management.html") 
+        from_ = base.request.params.get('from', '')
+
+        if len(from_) == 0:
+            return base.render("API_management/api_management.html") 
+        else:
+        	
+        	return h.redirect_to(from_.encode('ascii'))

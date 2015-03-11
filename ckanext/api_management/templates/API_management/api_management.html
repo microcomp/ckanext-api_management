@@ -89,7 +89,7 @@
 
           <dl>
             <dt class="key">{{ _('API Key') }} <span class="label" title="{{ _('This means only you can see this') }}">{{ _('Private') }}</span></dt>
-            <dd class="value"><code>{{ c.userobj.apikey }}</code></dd>
+            <dd class="value"><code>{{ c.userobj.apikey }}</code><a href="/API_management/NewAPIKey"> <i class="fa fa-external-link" ></i> {{_('New API key')}} </a></dd>
           </dl>
 
         {% endblock %}

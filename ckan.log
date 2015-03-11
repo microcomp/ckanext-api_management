@@ -1,0 +1,247 @@
+2015-03-11 14:38:00,397 WARNI [root] /////////////////////////////////////////
+2015-03-11 14:38:00,397 WARNI [root] None
+2015-03-11 14:38:00,533 INFO  [saml2] Logging started
+2015-03-11 14:38:06,741 INFO  [ckan.lib.base]  /admin render time 1.489 seconds
+2015-03-11 14:38:07,715 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 14:38:52,971 WARNI [root] /////////////////////////////////////////
+2015-03-11 14:38:52,971 WARNI [root] None
+2015-03-11 14:38:53,088 INFO  [saml2] Logging started
+2015-03-11 14:40:24,840 INFO  [ckan.lib.base]  /API_management render time 1.323 seconds
+2015-03-11 14:40:26,011 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 14:41:44,633 INFO  [ckan.lib.base]  /API_management render time 0.137 seconds
+2015-03-11 14:41:44,954 WARNI [root] False
+2015-03-11 14:41:44,954 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:45,202 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.036 seconds
+2015-03-11 14:41:45,205 WARNI [root] False
+2015-03-11 14:41:45,205 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:45,485 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.035 seconds
+2015-03-11 14:41:45,486 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:41:45,491 WARNI [root] False
+2015-03-11 14:41:45,491 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:45,644 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.033 seconds
+2015-03-11 14:41:45,647 WARNI [root] False
+2015-03-11 14:41:45,647 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:45,792 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.020 seconds
+2015-03-11 14:41:45,794 WARNI [root] False
+2015-03-11 14:41:45,794 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,047 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.038 seconds
+2015-03-11 14:41:46,052 WARNI [root] False
+2015-03-11 14:41:46,053 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,416 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.020 seconds
+2015-03-11 14:41:46,419 WARNI [root] False
+2015-03-11 14:41:46,419 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,561 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.020 seconds
+2015-03-11 14:41:46,563 WARNI [root] False
+2015-03-11 14:41:46,564 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,702 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.020 seconds
+2015-03-11 14:41:46,704 WARNI [root] False
+2015-03-11 14:41:46,705 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,845 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.021 seconds
+2015-03-11 14:41:46,848 WARNI [root] False
+2015-03-11 14:41:46,848 WARNI [root] http://192.168.21.27:5000/
+2015-03-11 14:41:46,991 INFO  [ckan.lib.base]  /api/3/action/resource_search render time 0.020 seconds
+2015-03-11 14:41:47,056 INFO  [ckan.lib.base]  / render time 2.782 seconds
+2015-03-11 14:41:47,832 INFO  [ckan.lib.base]  /API_management render time 0.127 seconds
+2015-03-11 14:41:48,910 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:42:39,263 INFO  [ckan.lib.base]  /API_management render time 0.257 seconds
+2015-03-11 14:42:40,291 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:47:19,763 INFO  [ckan.lib.base]  /user/admin render time 5.862 seconds
+2015-03-11 14:47:22,617 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:47:23,868 INFO  [ckan.lib.base]  /TODO render time 0.014 seconds
+2015-03-11 14:47:24,165 INFO  [ckan.lib.base]  /TODO render time 0.132 seconds
+2015-03-11 14:47:24,881 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:49:01,085 INFO  [ckan.lib.base]  /user/admin render time 5.543 seconds
+2015-03-11 14:49:02,937 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:49:30,790 INFO  [ckan.lib.base]  /user/admin render time 5.737 seconds
+2015-03-11 14:49:32,547 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 14:49:40,849 INFO  [ckan.lib.base]  /user/admin render time 3.746 seconds
+2015-03-11 14:49:42,917 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 14:49:45,697 INFO  [ckan.lib.base]  /user/login render time 0.242 seconds
+2015-03-11 14:49:46,353 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 14:49:48,869 INFO  [ckan.lib.base]  /user/logged_in render time 0.013 seconds
+2015-03-11 14:49:52,900 INFO  [ckan.lib.base]  /user/logged_in render time 3.865 seconds
+2015-03-11 14:49:58,111 INFO  [ckan.lib.base]  /dashboard render time 4.937 seconds
+2015-03-11 14:49:59,286 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:50:06,487 INFO  [ckan.lib.base]  /user/admin render time 5.002 seconds
+2015-03-11 14:50:08,497 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:51:10,014 WARNI [root] /////////////////////////////////////////
+2015-03-11 14:51:10,014 WARNI [root] None
+2015-03-11 14:51:10,132 INFO  [saml2] Logging started
+2015-03-11 14:51:18,318 INFO  [ckan.lib.base]  /user/admin render time 5.781 seconds
+2015-03-11 14:51:20,392 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 14:51:25,297 INFO  [ckan.lib.base]  /API_management render time 0.223 seconds
+2015-03-11 14:51:25,899 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:52:18,596 INFO  [ckan.lib.base]  /API_management render time 0.149 seconds
+2015-03-11 14:52:19,526 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:55:34,122 INFO  [ckan.lib.base]  /user/admin render time 5.514 seconds
+2015-03-11 14:55:38,207 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 14:55:41,697 INFO  [ckan.lib.base]  /API_management render time 0.138 seconds
+2015-03-11 14:55:42,863 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:56:21,565 INFO  [ckan.lib.base]  /user/admin render time 5.505 seconds
+2015-03-11 14:56:23,217 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 14:56:33,027 INFO  [ckan.lib.base]  /API_management render time 0.204 seconds
+2015-03-11 14:56:33,588 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:56:49,038 INFO  [ckan.lib.base]  /API_management render time 0.140 seconds
+2015-03-11 14:56:49,999 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:56:51,820 INFO  [ckan.lib.base]  /admin render time 0.309 seconds
+2015-03-11 14:56:52,374 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.012 seconds
+2015-03-11 14:56:56,225 INFO  [ckan.lib.base]  /admin render time 0.217 seconds
+2015-03-11 14:56:56,833 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 14:57:24,962 INFO  [ckan.lib.base]  /admin render time 0.257 seconds
+2015-03-11 14:57:25,958 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 14:57:33,249 WARNI [root] /////////////////////////////////////////
+2015-03-11 14:57:33,249 WARNI [root] None
+2015-03-11 14:57:33,383 INFO  [saml2] Logging started
+2015-03-11 14:57:36,656 INFO  [ckan.lib.base]  /admin render time 1.424 seconds
+2015-03-11 14:57:37,466 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 14:57:40,046 INFO  [ckan.lib.base]  /admin render time 0.120 seconds
+2015-03-11 14:57:40,449 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 14:57:46,963 INFO  [ckan.lib.base]  /user/admin render time 4.769 seconds
+2015-03-11 14:57:48,215 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.003 seconds
+2015-03-11 14:57:49,840 INFO  [ckan.lib.base]  /API_management render time 0.134 seconds
+2015-03-11 14:57:50,392 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:06:54,060 INFO  [ckan.lib.base]  /API_management render time 0.137 seconds
+2015-03-11 15:06:54,766 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:12:11,041 WARNI [root] /////////////////////////////////////////
+2015-03-11 15:12:11,042 WARNI [root] None
+2015-03-11 15:12:11,160 INFO  [saml2] Logging started
+2015-03-11 15:12:16,452 INFO  [ckan.lib.base]  /API_management render time 1.453 seconds
+2015-03-11 15:12:17,642 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:12:58,503 WARNI [root] /////////////////////////////////////////
+2015-03-11 15:12:58,503 WARNI [root] None
+2015-03-11 15:12:58,629 INFO  [saml2] Logging started
+2015-03-11 15:13:04,527 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 1.489 seconds
+2015-03-11 15:13:05,140 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 15:23:01,372 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.262 seconds
+2015-03-11 15:23:02,685 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:37:24,795 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.165 seconds
+2015-03-11 15:37:25,513 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:37:27,071 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.138 seconds
+2015-03-11 15:37:27,787 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:38:33,589 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.187 seconds
+2015-03-11 15:38:34,521 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:43:56,502 INFO  [ckan.lib.base]  /API_management render time 0.230 seconds
+2015-03-11 15:43:57,285 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:43:59,316 INFO  [ckan.lib.base]  /admin render time 0.198 seconds
+2015-03-11 15:44:00,241 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 15:44:01,699 INFO  [ckan.lib.base]  /admin render time 0.212 seconds
+2015-03-11 15:44:02,328 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:44:08,552 INFO  [ckan.lib.base]  /user/activity/admin render time 5.684 seconds
+2015-03-11 15:44:09,551 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:44:10,923 INFO  [ckan.lib.base]  /api/action/user_activity_list_html render time 0.370 seconds
+2015-03-11 15:54:25,703 INFO  [ckan.lib.base]  /user/admin render time 5.645 seconds
+2015-03-11 15:54:27,003 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:56:39,364 INFO  [ckan.lib.base]  /user/admin render time 5.561 seconds
+2015-03-11 15:56:42,261 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 15:57:25,772 INFO  [ckan.lib.base]  /user/activity/admin render time 5.178 seconds
+2015-03-11 15:57:27,212 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 15:57:59,387 INFO  [ckan.lib.base]  /user/activity/admin render time 5.228 seconds
+2015-03-11 15:58:00,964 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 15:58:04,280 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.276 seconds
+2015-03-11 15:58:04,946 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 15:58:08,279 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.153 seconds
+2015-03-11 15:58:08,751 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:00:38,749 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.243 seconds
+2015-03-11 16:00:39,993 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 16:00:48,341 INFO  [ckan.lib.base]  /user/admin render time 5.525 seconds
+2015-03-11 16:00:49,697 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:01:02,369 INFO  [ckan.lib.base]  /user/admin render time 4.733 seconds
+2015-03-11 16:01:04,086 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:03:15,090 INFO  [ckan.lib.base]  /user/admin render time 5.444 seconds
+2015-03-11 16:03:18,492 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:06:53,526 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:06:53,526 WARNI [root] None
+2015-03-11 16:06:53,704 INFO  [saml2] Logging started
+2015-03-11 16:07:02,995 INFO  [ckan.lib.base]  /user/admin render time 5.495 seconds
+2015-03-11 16:07:04,786 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 16:09:03,576 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:09:03,576 WARNI [root] None
+2015-03-11 16:09:03,693 INFO  [saml2] Logging started
+2015-03-11 16:09:11,535 INFO  [ckan.lib.base]  /user/admin render time 5.971 seconds
+2015-03-11 16:09:13,154 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 16:09:21,239 INFO  [ckan.lib.base]  /user/admin render time 5.162 seconds
+2015-03-11 16:09:22,716 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 16:09:41,979 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:09:41,979 WARNI [root] None
+2015-03-11 16:09:42,122 INFO  [saml2] Logging started
+2015-03-11 16:10:08,635 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:10:08,635 WARNI [root] None
+2015-03-11 16:10:08,754 INFO  [saml2] Logging started
+2015-03-11 16:13:24,447 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 1.541 seconds
+2015-03-11 16:13:25,562 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:13:34,618 INFO  [ckan.lib.base]  /user/admin render time 6.097 seconds
+2015-03-11 16:13:36,190 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:14:44,013 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:14:44,013 WARNI [root] None
+2015-03-11 16:14:44,130 INFO  [saml2] Logging started
+2015-03-11 16:14:51,005 INFO  [ckan.lib.base]  /user/admin render time 6.117 seconds
+2015-03-11 16:14:53,291 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 16:16:27,969 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:16:27,969 WARNI [root] None
+2015-03-11 16:16:28,122 INFO  [saml2] Logging started
+2015-03-11 16:16:33,658 INFO  [ckan.lib.base]  /user/admin render time 4.627 seconds
+2015-03-11 16:16:35,196 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.006 seconds
+2015-03-11 16:17:20,948 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:17:20,948 WARNI [root] None
+2015-03-11 16:17:21,067 INFO  [saml2] Logging started
+2015-03-11 16:18:06,184 INFO  [ckan.lib.base]  /dataset render time 4.066 seconds
+2015-03-11 16:18:09,309 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 16:18:15,120 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:18:15,120 WARNI [root] None
+2015-03-11 16:18:15,233 INFO  [saml2] Logging started
+2015-03-11 16:18:22,183 INFO  [ckan.lib.base]  /user/admin render time 6.205 seconds
+2015-03-11 16:18:23,951 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.005 seconds
+2015-03-11 16:18:25,529 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.038 seconds
+2015-03-11 16:18:27,029 INFO  [ckan.lib.base]  /dataset render time 1.021 seconds
+2015-03-11 16:18:28,279 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:19:03,179 INFO  [ckan.lib.base]  /admin/sla render time 0.022 seconds
+2015-03-11 16:19:13,181 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:19:13,181 WARNI [root] None
+2015-03-11 16:19:13,309 INFO  [saml2] Logging started
+2015-03-11 16:19:19,989 INFO  [ckan.lib.base]  /user/admin render time 4.685 seconds
+2015-03-11 16:19:21,225 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:19:23,366 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.034 seconds
+2015-03-11 16:19:37,327 INFO  [ckan.lib.base]  /admin/sla render time 0.083 seconds
+2015-03-11 16:19:38,263 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:20:02,004 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:20:02,004 WARNI [root] None
+2015-03-11 16:20:02,134 INFO  [saml2] Logging started
+2015-03-11 16:20:29,294 INFO  [ckan.lib.base]  /user/admin render time 6.475 seconds
+2015-03-11 16:20:31,421 INFO  [ckan.lib.base]  /user/admin render time 6.269 seconds
+2015-03-11 16:20:33,359 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:20:35,081 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.037 seconds
+2015-03-11 16:22:11,334 INFO  [ckan.lib.base]  /user/admin render time 5.584 seconds
+2015-03-11 16:22:13,209 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.002 seconds
+2015-03-11 16:22:15,856 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.035 seconds
+2015-03-11 16:22:40,449 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:22:40,449 WARNI [root] None
+2015-03-11 16:22:40,742 INFO  [saml2] Logging started
+2015-03-11 16:22:50,370 INFO  [ckan.lib.base]  /user/admin render time 6.610 seconds
+2015-03-11 16:22:52,205 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:23:20,676 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:23:20,677 WARNI [root] None
+2015-03-11 16:23:20,928 INFO  [saml2] Logging started
+2015-03-11 16:24:02,483 WARNI [root] /////////////////////////////////////////
+2015-03-11 16:24:02,483 WARNI [root] None
+2015-03-11 16:24:02,602 INFO  [saml2] Logging started
+2015-03-11 16:24:03,437 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.035 seconds
+2015-03-11 16:24:04,980 INFO  [ckan.lib.base]  /user/login render time 2.081 seconds
+2015-03-11 16:24:05,767 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.003 seconds
+2015-03-11 16:24:08,672 INFO  [ckan.lib.base]  /user/admin render time 4.963 seconds
+2015-03-11 16:24:10,758 INFO  [ckan.lib.base]  /user/logged_in render time 0.213 seconds
+2015-03-11 16:24:10,770 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.003 seconds
+2015-03-11 16:24:13,200 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.050 seconds
+2015-03-11 16:24:14,885 INFO  [ckan.lib.base]  /user/logged_in render time 3.992 seconds
+2015-03-11 16:24:18,400 INFO  [ckan.lib.base]  /user/admin render time 5.070 seconds
+2015-03-11 16:24:19,614 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:24:20,621 INFO  [ckan.lib.base]  /dashboard render time 5.578 seconds
+2015-03-11 16:24:21,959 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.003 seconds
+2015-03-11 16:24:24,250 INFO  [ckan.lib.base]  /user/activity/admin render time 3.341 seconds
+2015-03-11 16:24:25,253 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:24:28,818 INFO  [ckan.lib.base]  /API_management/NewAPIKey render time 0.034 seconds
+2015-03-11 16:24:34,361 INFO  [ckan.lib.base]  /user/activity/admin render time 5.344 seconds
+2015-03-11 16:24:35,135 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
+2015-03-11 16:24:41,963 INFO  [ckanext.storage_gui.storageGUI] refresh value: None
+2015-03-11 16:24:41,963 INFO  [ckanext.storage_gui.storageGUI] refresh value type: <type 'NoneType'>
+2015-03-11 16:24:43,179 INFO  [ckan.lib.base]  /admin/storage render time 1.228 seconds
+2015-03-11 16:24:44,175 INFO  [ckan.lib.base]  /api/i18n/sk render time 0.004 seconds
