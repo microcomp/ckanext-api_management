@@ -45,3 +45,5 @@ class APIManagementController(base.BaseController):
         else:
         	
         	return h.redirect_to(from_.encode('ascii'))
+def is_installed():
+    return True
