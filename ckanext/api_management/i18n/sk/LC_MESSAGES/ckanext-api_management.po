@@ -1,4 +1,4 @@
-# Slovak translations for ckanext-api_management.
+﻿# Slovak translations for ckanext-api_management.
 # Copyright (C) 2015 ORGANIZATION
 # This file is distributed under the same license as the
 # ckanext-api_management
@@ -25,66 +25,66 @@ msgstr ""
 #: ckanext/api_management/templates/admin/pages.html:12
 #: ckanext/api_management/templates/user/read_base.html:7
 msgid "API management"
-msgstr ""
+msgstr "API management"
 
 #: ckanext/api_management/templates/API_management/api_management.html:23
 msgid "API management lorem ipsum text"
 msgstr ""
 
 #: ckanext/api_management/templates/API_management/api_management.html:24
-msgid "API nagement tools:"
-msgstr ""
+msgid "API management tools:"
+msgstr "Nástroje API management"
 
 #: ckanext/api_management/templates/API_management/api_management.html:26
 #: ckanext/api_management/templates/API_management/api_management.html:92
 msgid "New API key"
-msgstr ""
+msgstr "Novy APi kľúč"
 
 #: ckanext/api_management/templates/API_management/api_management.html:49
 msgid "You have not provided a biography."
-msgstr ""
+msgstr "Neposkytli ste životopis"
 
 #: ckanext/api_management/templates/API_management/api_management.html:51
 msgid "This user has no biography."
-msgstr ""
+msgstr "Tento používateľ nemá životopis"
 
 #: ckanext/api_management/templates/API_management/api_management.html:68
 msgid "Open ID"
-msgstr ""
+msgstr "Otvorený ID"
 
 #: ckanext/api_management/templates/API_management/api_management.html:71
 msgid "Username"
-msgstr ""
+msgstr "Používateľské meno"
 
 #: ckanext/api_management/templates/API_management/api_management.html:77
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ckanext/api_management/templates/API_management/api_management.html:77
 #: ckanext/api_management/templates/API_management/api_management.html:91
 msgid "This means only you can see this"
-msgstr ""
+msgstr "To znamená, že len vy môžte vidieť"
 
 #: ckanext/api_management/templates/API_management/api_management.html:77
 #: ckanext/api_management/templates/API_management/api_management.html:91
 msgid "Private"
-msgstr ""
+msgstr "Súkromné"
 
 #: ckanext/api_management/templates/API_management/api_management.html:82
 msgid "Member Since"
-msgstr ""
+msgstr "Člen od"
 
 #: ckanext/api_management/templates/API_management/api_management.html:86
 msgid "State"
-msgstr ""
+msgstr "Stav"
 
 #: ckanext/api_management/templates/API_management/api_management.html:91
 msgid "API Key"
-msgstr ""
+msgstr "API kľúč"
 
 #: ckanext/api_management/templates/admin/pages.html:8
 msgid "Datasety"
-msgstr ""
+msgstr "Datasety"
 
 #: ckanext/api_management/templates/admin/pages.html:9
 msgid "Prehľad aktivít"
@@ -92,44 +92,44 @@ msgstr ""
 
 #: ckanext/api_management/templates/admin/pages.html:15
 msgid "Administration"
-msgstr ""
+msgstr "Administratíva"
 
 #: ckanext/api_management/templates/admin/pages.html:19
 msgid "Administrative tools"
-msgstr ""
+msgstr "Nástroje administratívy"
 
 #: ckanext/api_management/templates/admin/pages.html:20
 msgid ""
 "According to your permissions assigned to your user account, you are "
 "allowed to use certain administrative tools. This tools provide extended "
 "functionality for managing content of CKAN."
-msgstr ""
+msgstr "Na základe vašich oprávnení pre užívateľský účet, máte dovolené použiť administratívne nástroje. Tieto nástroje vám poskytujú rozšírené funkcionality pre spravovanie obsahu CKAN. "
 
 #: ckanext/api_management/templates/admin/pages.html:21
 msgid "The available administrative tools are:"
-msgstr ""
+msgstr "Dostupné administratívne nástroje sú:"
 
 #: ckanext/api_management/templates/admin/pages.html:23
 msgid "Comments administration"
-msgstr ""
+msgstr "Administratívy"
 
 #: ckanext/api_management/templates/admin/pages.html:24
 msgid "Tags administration"
-msgstr ""
+msgstr "Administratíva tagov"
 
 #: ckanext/api_management/templates/admin/pages.html:25
 msgid "Reported applications"
-msgstr ""
+msgstr "Hlásené aplikácie"
 
 #: ckanext/api_management/templates/admin/pages.html:26
 msgid "Storage Administration"
-msgstr ""
+msgstr "Administratíva úložiska."
 
 #: ckanext/api_management/templates/user/read_base.html:4
 msgid "Datasets"
-msgstr ""
+msgstr "Datasety"
 
 #: ckanext/api_management/templates/user/read_base.html:5
 msgid "Activity Stream"
-msgstr ""
+msgstr "Sled aktivít"
 
