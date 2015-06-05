@@ -1,4 +1,4 @@
-﻿# Slovak translations for ckanext-api_management.
+# Slovak translations for ckanext-api_management.
 # Copyright (C) 2015 ORGANIZATION
 # This file is distributed under the same license as the
 # ckanext-api_management
