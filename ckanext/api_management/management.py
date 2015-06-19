@@ -59,11 +59,8 @@ class APIManagementController(base.BaseController):
         model.Session.commit()
         from_ = base.request.params.get('from', '')
 
-        if len(from_) == 0:
-            return base.render("API_management/api_management.html") 
-        else:
-        	
-        	return h.redirect_to(from_.encode('ascii'))
+        return h.redirect_to(controller='user', action='read', id=c.userobj.id)
+        
 def is_installed():
     return True
 
