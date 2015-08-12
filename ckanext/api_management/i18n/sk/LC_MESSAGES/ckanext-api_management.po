@@ -38,7 +38,7 @@ msgstr "Nástroje API management"
 #: ckanext/api_management/templates/API_management/api_management.html:26
 #: ckanext/api_management/templates/API_management/api_management.html:92
 msgid "New API key"
-msgstr "Novy APi kľúč"
+msgstr "Nový API kľúč"
 
 #: ckanext/api_management/templates/API_management/api_management.html:49
 msgid "You have not provided a biography."
