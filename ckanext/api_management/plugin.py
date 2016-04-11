@@ -10,7 +10,6 @@ class APIManagementPlugin(plugins.SingletonPlugin):
     plugins.implements(plugins.IRoutes, inherit=True)
     plugins.implements(plugins.ITemplateHelpers, inherit=False)
     def before_map(self, map):
-        #map.connect('api_management_page', '/API_management', action='APIManagement', controller=self.ctr)
         map.connect('new_api_key', '/API_management/NewAPIKey', action='NewAPIKey', controller=self.ctr)
         return map
     def update_config(self, config):

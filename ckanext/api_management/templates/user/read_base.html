@@ -3,12 +3,4 @@
 {% block content_primary_nav %}
   {{ h.build_nav_icon('user_datasets', _('Datasets'), id=user.name) }}
   {{ h.build_nav_icon('user_activity_stream', _('Activity Stream'), id=user.name) }}
-
 {% endblock %}
-
-   {% block user_info %}
-   {{super()}}
-		{% if c.is_myself %}
-			<a href="/API_management/NewAPIKey"> <i class="fa fa-external-link" ></i> {{_('New API key')}} </a></dd>
-        {% endif %}
-   {%endblock%}
